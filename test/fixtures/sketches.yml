@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sketch_title: MyString
+  sketch_length: 2014-12-08 04:45:51
+  episode: 
+
+two:
+  sketch_title: MyString
+  sketch_length: 2014-12-08 04:45:51
+  episode: 

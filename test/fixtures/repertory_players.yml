@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rp_fname: MyString
+  rp_lname: MyString
+  rp: 
+  cast: 
+
+two:
+  rp_fname: MyString
+  rp_lname: MyString
+  rp: 
+  cast: 
